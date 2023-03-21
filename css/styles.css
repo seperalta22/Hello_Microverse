@@ -1,0 +1,23 @@
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #252525;
+    color: #fff;
+    padding: 4rem;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 3rem;
+}
